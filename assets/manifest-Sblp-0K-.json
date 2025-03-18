@@ -1,0 +1,22 @@
+{
+    "name": "Flutter App",
+    "short _name": "Flutapp",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#FFE902",
+    "theme _color": "#FFE902",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "src/assets/pizza.png",
+            "type": "image/png",
+            "sizes": "72x72"
+        },
+        {
+            "src": "src/assets/pizza2.png",
+            "type": "image/png",
+            "sizes": "144x144",
+            "purpose": "any"
+        }
+    ]
+}
